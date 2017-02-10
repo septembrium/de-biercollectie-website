@@ -1,0 +1,107 @@
+baseurl = "https://biercollectie.be"
+languageCode = "nl-be"
+title = "De Biercollectie"
+# Enable comments by entering your Disqus shortname
+disqusShortname = "biercollectie"
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = "UA-46065987-1"
+# Define the number of posts per page
+paginate = 10
+footnotereturnlinkcontents = "↩"
+theme = "hugo-icarus-theme"
+nodateline = false # we want to show the dateline
+noprevnext = false # we want to show the prev/next buttons
+
+[permalinks]
+    post = "/:year/:slug"
+
+[params]
+    # Tell me who you are
+    # note by Bert: using #102030 for black
+    author = "De Biercollectie Site"
+    bio = "De site van het YouTube kanaal."
+    location = "België"
+    banner = "banners/placeholder.png" # 1024 × 500
+    site_description = "Achtergrond over de YouTube afleveringen van De Biercollectie en verhalen over bier."
+    copyright  = "Tekst en beelden onder [CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.nl) licentie, Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice)."
+    avatar = "css/images/De_Biercollectie_logo_128.jpg"
+    logo = "css/images/De_Biercollectie_site_logo_256.png"
+    disable_mathjax = true # set to true to disable MathJax
+
+    # Format dates with Go's time formatting
+    date_format = "2006-01-02"
+
+    # Add custom assets with their paths relative to the static folder
+    custom_css = []
+    custom_js  = []
+
+# Create custom menu entries by defining a label and a link for
+# them. Since you can also link posts, you've the option the
+# place the links before or after them.
+#
+# E.g.: "Home" appears before all linked posts in the menu
+# and "Tags" / "Categories" after them.
+[[params.menu]]
+    before = true
+    label  = "Over De Biercollectie"
+    link   = "debiercollectie/"
+
+# [[params.menu]]
+#     before = false
+#     label  = "Gasten"
+#     link   = "gasten/"
+
+# [[params.menu]]
+#     before = false
+#     label  = "Locaties"
+#     link   = "locaties/"
+
+[[params.menu]]
+    before = false
+    label  = "Contacteer ons"
+    link   = "contact/"
+
+# Enter a link for the follow button on the left
+[params.profile]
+    follow_button = "http://bit.ly/biercollectie_abonneren"
+
+
+[social]
+# Add your social network accounts to the profile section on the left
+# by entering your username. The links to your account will be
+# created automatically.
+    github          = ""
+    gitlab          = ""
+    bitbucket       = ""
+    jsfiddle        = ""
+    codepen         = ""
+    foursquare      = ""
+    dribbble        = ""
+    deviantart      = ""
+    behance         = ""
+    flickr          = ""
+    instagram       = "biercollectie"
+    youtube         = "biercollectiebe"
+    vimeo           = ""
+    vine            = ""
+    medium          = ""
+    wordpress       = ""
+    tumblr          = ""
+    xing            = ""
+    linkedin        = ""
+    slideshare      = ""
+    stackoverflow   = ""
+    reddit          = ""
+    pinterest       = ""
+    googleplus      = "biercollectiebe"
+    facebook        = "biercollectie"
+    facebook_admin  = ""
+    twitter_domain  = ""
+    twitter         = "biercollectie"
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    recent_articles = false
+    categories = false
+    tags = false
+    tag_cloud = false

@@ -1,0 +1,39 @@
+[articles]
+    read_more = "Lees meer"
+    words = "woorden"
+    readingtime = "minuten lezen"
+    share = "Delen"
+    comments = "Reacties"
+
+# Linked older/newer posts at the bottom of each one
+[articles.linked_posts]
+    older = "Oudere posts"
+    newer = "Nieuwere posts"
+
+[search]
+    placeholder = "Zoeken"
+
+[pagination]
+    previous = "Vorige"
+    next = "Volgende"
+
+[profile]
+    follow_button = "Volgen"
+    tags = "Trefwoorden"
+    posts = "Posts"
+
+[page_not_found]
+    title = "404 - Pagina niet gevonden"
+    subtitle = "Op deze link is geen pagina te vinden."
+
+[widgets.categories]
+    title = "Categorieën"
+
+[widgets.recent_articles]
+    title = "Recente posts"
+
+[widgets.tag_cloud]
+    title = "Woordwolk"
+
+[widgets.tags]
+    title = "Trefwoorden"
