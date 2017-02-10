@@ -22,7 +22,7 @@ We zijn gestart in 2013, onze missie is laten zien dat goed bier voor iedereen i
 Brouwers zijn onze helden. Als niemand aan tafel het lekker vindt, dan zenden we de aflevering niet uit.
 
 ## Gert en Bert
-De vaste gasten zijn (bijna) altijd [Gert Schepens](http://dgtl.be) en [Bert Heymans](http://heymans.org).
+De vaste gasten zijn (bijna) altijd [Gert Schepens](https://about.gertschepens.be/) en [Bert Heymans](http://heymans.org).
 
 Wie die namen durft te Googelen komt management advies, start-ups, fotografie en - voorspelbaar - bier tegen.
 
