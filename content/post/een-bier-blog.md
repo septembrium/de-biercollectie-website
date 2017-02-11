@@ -1,7 +1,7 @@
 +++
 title = "Een Bierblog?"
 date = "2016-11-20T08:09:35+01:00"
-description = "dit is een test"
+description = "Gaat De Biercollectie nu ook bierbloggen of blijft de focus op het YouTube kanaal?"
 categories = ["biercollectie"]
 tags = ["over ons"]
 banner = "banners/bierschuim.jpg"
