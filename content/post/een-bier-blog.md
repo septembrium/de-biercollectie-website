@@ -10,7 +10,7 @@ draft = false
 
 [De Biercollectie](http://bit.ly/biercollectie) is een YouTube kanaal met [een missie](/debiercollectie/).
 
-[Abonneer u allen dus gezwind op onze uitzendingen](http://bit.ly/biercollectie_abonneren)!
+[Abonneert u allen dus gezwind op onze uitzendingen](http://bit.ly/biercollectie_abonneren)!
 
 De website heeft altijd in functie gestaan van het YouTube kanaal en het is de bedoeling dat dat zo gaat blijven.
 
