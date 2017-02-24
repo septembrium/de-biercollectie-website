@@ -1,10 +1,14 @@
 +++
-tags = []
-categories = []
+
+title = ""
 description = ""
-menu = ""
-banner = ""
+categories = []
+tags = []
 images = []
+menu = ""
+banner = "banners/bierschuim.jpg"
+draft = true
+
 +++
 
 <!--more-->

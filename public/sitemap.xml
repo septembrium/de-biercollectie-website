@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://biercollectie.be/2017/gert-is-naar-de-hopduvel-geweest-prospectie</loc>
+    <lastmod>2017-02-20T21:03:55+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://biercollectie.be/2017/geuze-boon-black-label-vs-geuze-boon</loc>
     <lastmod>2017-02-11T23:10:04+01:00</lastmod>
   </url>
@@ -22,6 +27,12 @@
   </url>
   
   <url>
+    <loc>https://biercollectie.be/tags/3-fonteinen/</loc>
+    <lastmod>2017-02-20T21:03:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://biercollectie.be/categories/afleveringen/</loc>
     <lastmod>2017-02-11T23:10:04+01:00</lastmod>
     <priority>0</priority>
@@ -34,19 +45,31 @@
   </url>
   
   <url>
+    <loc>https://biercollectie.be/tags/boon/</loc>
+    <lastmod>2017-02-11T23:10:04+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biercollectie.be/tags/brett/</loc>
+    <lastmod>2017-02-20T21:03:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://biercollectie.be/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://biercollectie.be/</loc>
-    <lastmod>2017-02-11T23:10:04+01:00</lastmod>
+    <lastmod>2017-02-20T21:03:55+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://biercollectie.be/tags/geuze/</loc>
-    <lastmod>2017-02-11T23:10:04+01:00</lastmod>
+    <lastmod>2017-02-20T21:03:55+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -58,12 +81,24 @@
   
   <url>
     <loc>https://biercollectie.be/post/</loc>
-    <lastmod>2017-02-11T23:10:04+01:00</lastmod>
+    <lastmod>2017-02-20T21:03:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biercollectie.be/categories/prospectie/</loc>
+    <lastmod>2017-02-20T21:03:55+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://biercollectie.be/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biercollectie.be/tags/tilquin/</loc>
+    <lastmod>2017-02-20T21:03:55+01:00</lastmod>
     <priority>0</priority>
   </url>
   
