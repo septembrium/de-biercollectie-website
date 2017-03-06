@@ -3,8 +3,10 @@ languageCode = "nl-be"
 title = "De Biercollectie"
 # Enable comments by entering your Disqus shortname
 disqusShortname = "biercollectie"
-# Enable Google Analytics by entering your tracking code
-googleAnalytics = "UA-46065987-1"
+
+# Enable Google Analytics by entering your tracking code (replaced with Google Tag Manager, by overriding the footer_js and head partials)
+# googleAnalytics = "UA-46065987-1"
+
 # Define the number of posts per page
 paginate = 10
 footnotereturnlinkcontents = "↩"

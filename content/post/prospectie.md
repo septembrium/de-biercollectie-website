@@ -24,5 +24,5 @@ Een heerlijk zuur bier dat je al enkel voor het uitzicht zou schenken. Het is tr
 ## 3 Fonteinen Cuvée Armand & Gaston
 Het is vrij snel duidelijk waarom dit door [3 Fonteinen](https://3fonteinen.be/) de naam "Cuvée" krijgt. Het is een smaakbom, de kruidigheid van dit kunstwerk snijdt zonder de minste moeite door het zure geuzekarakter. Ook licht bitter en het zuur gaat in de richting van citrus of balsamico azijn.
 
-## Conclusie
+## Proeven!
 We moeten ze allemaal nog een paar keer proeven want oefening baart nu eenmaal kunst. Maar die Brett Ale is de grootste kanshebber omdat het een tof verhaal en fascinerende smaak heeft.
