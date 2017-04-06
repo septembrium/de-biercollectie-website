@@ -3,7 +3,7 @@ title = "Geuze Boon Black Label vs Geuze Boon"
 date = "2017-02-11T23:10:04+01:00"
 description = "We degusteren de Geuze Boon Black Label naast een reguliere Geuze Boon."
 categories = ["afleveringen"]
-tags = ["Geuze", "Boon"]
+tags = ["Geuze", "Boon", "vergelijking"]
 banner = "banners/geuze_boon_black_label_2016.jpg"
 draft = false
 

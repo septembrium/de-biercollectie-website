@@ -15,7 +15,7 @@ nodateline = false # we want to show the dateline
 noprevnext = false # we want to show the prev/next buttons
 
 [permalinks]
-    post = "/:year/:slug"
+    post = "/:year/:slug/"
 
 [params]
     # Tell me who you are
