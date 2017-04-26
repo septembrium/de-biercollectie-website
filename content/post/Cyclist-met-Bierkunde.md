@@ -5,7 +5,7 @@ date = "2017-04-06T14:42:02+02:00"
 description = "We degusteren Cyclistbier samen met Davy Buntinx van Bierkunde en komen er achter dat er smaakevolutie op zit."
 categories = ["afleveringen"]
 tags = ["blond", "degustatie", "smaakevolutie"]
-banner = "banners/bierschuim.jpg"
+banner = "banners/Cyclist_bier.jpg"
 draft = false
 
 +++
