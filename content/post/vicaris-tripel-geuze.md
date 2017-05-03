@@ -21,6 +21,6 @@ Eigenlijk waren we helemaal niet van plan om 2 afleveringen te maken maar omdat 
 
 {{< youtube XjooHQaBrik >}}
 
-Normaal gezien proefen we alles eerst eens voor om een idee te krijgen van alle aspecten van het bier, deze keer niet want er was niet genoeg belegen Vicaris Tripel Geuze om dat te doen.
+Normaal gezien proeven we alles eerst eens voor om een idee te krijgen van alle aspecten van het bier, deze keer niet want er was niet genoeg belegen Vicaris Tripel Geuze om dat te doen.
 
 Als we de kans krijgen gaan we de brouwerij nog eens bezoeken. Hun Kerst/Winterbier staat intussen ook op de longlist.
