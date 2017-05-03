@@ -11,8 +11,8 @@ tags = ["Geuze", "Brett", "3 Fonteinen", "Tilquin"]
 +++
 
 Gert was zijn leeggoed gaan terugbrengen naar de [Hopduvel](https://goo.gl/maps/e1w8arYjyaF2) in Gent zonder ook maar de minste intentie om iets aan te schaffen. Dat is niet gelukt. Een zorgvuldig onderzoek om na te gaan wat we voor de volgende afleveringen zouden kiezen werd onmiddellijk ingesteld.
-
 <!--more-->
+
 Uit wat ze in Amerika schoon verwoorden als de "beer haul" selecteerden we 3 bieren.
 
 ## Oude Quetsche Tilquin à l'Ancienne  

@@ -10,7 +10,6 @@ draft = false
 +++
 
 We doen een fles Geuze Boon Black Label open en proeven die samen met een fles reguliere Geuze Boon. Dat is interessant! Die 2 smaken geven elkaar context en het wordt allemaal nog sneller gezellig aan tafel.
-
 <!--more-->
 
 {{< youtube qGyVGMtyrWY >}}
